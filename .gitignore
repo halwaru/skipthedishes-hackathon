@@ -1,0 +1,17 @@
+# Files #
+*.project
+*.classpath
+*.tern-project
+*.jsfdia
+*.spdia
+*.pmd
+*.idea
+*.iml
+*.versionsBackup
+
+# Folders #
+target/
+classes/
+.idea/
+.settings/
+/bin
